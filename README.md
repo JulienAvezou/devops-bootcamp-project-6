@@ -13,3 +13,9 @@ Demo project for Module 9 - AWS services
 4. Update package manager tool, install Docker, start Docker daemon, add user to group to run Docker cmd without sudo
 
 5. Pull image from Docker hub containing web app
+<img width="668" alt="Capture d’écran 2022-10-27 à 18 57 27" src="https://user-images.githubusercontent.com/62488871/198353971-6ce26677-a1ca-46b0-8f3f-744019152e46.png">
+
+6. Config firewall of instance to make app accessible from browser
+<img width="1135" alt="Capture d’écran 2022-10-27 à 19 00 46" src="https://user-images.githubusercontent.com/62488871/198353988-7136fbeb-5cb5-4e4f-ba46-20a234910150.png">
+<img width="516" alt="Capture d’écran 2022-10-27 à 19 01 29" src="https://user-images.githubusercontent.com/62488871/198353996-811dc3bf-b5f3-46d7-8a84-98873cc5d109.png">
+
