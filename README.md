@@ -21,5 +21,9 @@ Demo project for Module 9 - AWS services
 
 7. Install SSH agent plugin on Jenkins & add SSH key for EC2 instance login in Jenkins credentials
 
+8. Add SSH login and run Docker img logic to Jenkinsfile (need to enable SSH access for EC2 instance on port 22)
+<img width="713" alt="Capture d’écran 2022-10-28 à 19 33 32" src="https://user-images.githubusercontent.com/62488871/198699568-1824254c-14bc-424c-a895-1066941dd70a.png">
 
+9. Run Jenkins build on pipeline and check that app is running on server
+<img width="916" alt="Capture d’écran 2022-10-28 à 20 09 42" src="https://user-images.githubusercontent.com/62488871/198704077-d02ddffc-849b-462b-994f-93675c24761d.png">
 
