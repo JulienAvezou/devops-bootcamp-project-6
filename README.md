@@ -27,3 +27,23 @@ Demo project for Module 9 - AWS services
 9. Run Jenkins build on pipeline and check that app is running on server
 <img width="916" alt="Capture d’écran 2022-10-28 à 20 09 42" src="https://user-images.githubusercontent.com/62488871/198704077-d02ddffc-849b-462b-994f-93675c24761d.png">
 
+10. Install docker-compose on ec2 instance
+<img width="669" alt="Capture d’écran 2022-10-29 à 15 14 31" src="https://user-images.githubusercontent.com/62488871/198833597-1b8d8931-698a-409f-b2f9-dfa1e98ccba0.png">
+
+11. Create docker-compose file
+<img width="633" alt="Capture d’écran 2022-10-29 à 15 23 31" src="https://user-images.githubusercontent.com/62488871/198833930-6027af93-892f-4df4-84f5-0356732985b0.png">
+
+12. Adjust Jenkinsfile for docker-compose -> copy docker-compose file from repo to ec2 instance, ssh into instance and run docker-compose file on instance
+<img width="753" alt="Capture d’écran 2022-10-29 à 15 33 43" src="https://user-images.githubusercontent.com/62488871/198834741-0ce08310-2668-4abb-bcdc-6ddfce51a281.png">
+
+13. Run Jenkins build and check relevant containers are running on ec2 instance and that docker-compose file is there
+<img width="588" alt="Capture d’écran 2022-10-29 à 15 33 31" src="https://user-images.githubusercontent.com/62488871/198834708-51a6864e-d22b-4dda-9120-108f9f848ce7.png">
+<img width="673" alt="Capture d’écran 2022-10-29 à 15 34 05" src="https://user-images.githubusercontent.com/62488871/198834726-ff6ffe89-3d91-4037-8683-27c749fa76a5.png">
+
+14. Parameterise docker image tag in Dockerfile
+<img width="640" alt="Capture d’écran 2022-10-29 à 16 08 57" src="https://user-images.githubusercontent.com/62488871/198836264-843985a9-c7fb-48f2-a745-0c3f1afb9b96.png">
+<img width="387" alt="Capture d’écran 2022-10-29 à 16 08 47" src="https://user-images.githubusercontent.com/62488871/198836279-bca16dc9-d989-4168-b876-eb4fa235879d.png">
+<img width="495" alt="Capture d’écran 2022-10-29 à 16 12 46" src="https://user-images.githubusercontent.com/62488871/198836245-25ad395b-fbcd-40d2-a805-82dcd15cb5de.png">
+<img width="640" alt="Capture d’écran 2022-10-29 à 16 08 57" src="https://user-images.githubusercontent.com/62488871/198836264-843985a9-c7fb-48f2-a745-0c3f1afb9b96.png">
+<img width="495" alt="Capture d’écran 2022-10-29 à 16 12 46" src="https://user-images.githubusercontent.com/62488871/198836245-25ad395b-fbcd-40d2-a805-82dcd15cb5de.png">
+
