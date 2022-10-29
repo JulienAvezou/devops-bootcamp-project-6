@@ -44,6 +44,4 @@ Demo project for Module 9 - AWS services
 <img width="640" alt="Capture d’écran 2022-10-29 à 16 08 57" src="https://user-images.githubusercontent.com/62488871/198836264-843985a9-c7fb-48f2-a745-0c3f1afb9b96.png">
 <img width="387" alt="Capture d’écran 2022-10-29 à 16 08 47" src="https://user-images.githubusercontent.com/62488871/198836279-bca16dc9-d989-4168-b876-eb4fa235879d.png">
 <img width="495" alt="Capture d’écran 2022-10-29 à 16 12 46" src="https://user-images.githubusercontent.com/62488871/198836245-25ad395b-fbcd-40d2-a805-82dcd15cb5de.png">
-<img width="640" alt="Capture d’écran 2022-10-29 à 16 08 57" src="https://user-images.githubusercontent.com/62488871/198836264-843985a9-c7fb-48f2-a745-0c3f1afb9b96.png">
-<img width="495" alt="Capture d’écran 2022-10-29 à 16 12 46" src="https://user-images.githubusercontent.com/62488871/198836245-25ad395b-fbcd-40d2-a805-82dcd15cb5de.png">
 
